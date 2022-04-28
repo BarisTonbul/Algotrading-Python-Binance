@@ -1,0 +1,560 @@
+1651130339005	geckodriver	INFO	Listening on 127.0.0.1:53269
+1651130342048	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53272" "-no-remote" "-profile" "C:\\Users\\baris\\AppData\\Local\\Temp\\rust_mozprofilerG41tT"
+1651130342397	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\baris\\AppData\\Local\\Temp\\rust_mozprofilerG41tT\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53272/devtools/browser/7c41a938-1ddd-445d-8f46-d9c446d2affa
+1651130344042	Marionette	INFO	Listening on port 53281
+1651130344110	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1651130346638	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1651130350361	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.tradingview.com"
+1651130365092	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1651130379202	Marionette	INFO	Stopped listening on port 53281
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1651131505826	geckodriver	INFO	Listening on 127.0.0.1:53847
+1651131508878	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53850" "-no-remote" "-profile" "C:\\Users\\baris\\AppData\\Local\\Temp\\rust_mozprofileFDT8Kt"
+1651131509101	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\baris\\AppData\\Local\\Temp\\rust_mozprofileSPWrVX\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53850/devtools/browser/bafd628b-60e5-41ed-9d45-157db5612564
+1651131510557	Marionette	INFO	Listening on port 53860
+1651131510917	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.tradingview.com"
+JavaScript warning: https://www.tradingview.com/static/bundles/5103.75816f70895ab424f963.js, line 19: unreachable code after return statement
+JavaScript warning: https://www.tradingview.com/static/bundles/5103.75816f70895ab424f963.js, line 19: unreachable code after return statement
+1651131524237	Marionette	INFO	Stopped listening on port 53860
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+:" "https://www.tradingview.com"
+JavaScript warning: https://www.tradingview.com/static/bundles/5103.75816f70895ab424f963.js, line 19: unreachable code after return statement
+1651131525233	Marionette	INFO	Stopped listening on port 53859
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1651131545188	geckodriver	INFO	Listening on 127.0.0.1:54033
+1651131548228	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54034" "-no-remote" "-profile" "C:\\Users\\baris\\AppData\\Local\\Temp\\rust_mozprofileQTB1wG"
+1651131548445	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\baris\\AppData\\Local\\Temp\\rust_mozprofileQTB1wG\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54034/devtools/browser/1f425746-175d-4ba5-ac35-d217bb95a053
+1651131549848	Marionette	INFO	Listening on port 54040
+1651131550292	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.tradingview.com"
+1651131557957	Marionette	INFO	Stopped listening on port 54040
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1651131578835	geckodriver	INFO	Listening on 127.0.0.1:54118
+1651131581907	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54119" "-no-remote" "-profile" "C:\\Users\\baris\\AppData\\Local\\Temp\\rust_mozprofile3SWfsU"
+1651131582111	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\baris\\AppData\\Local\\Temp\\rust_mozprofile3SWfsU\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54119/devtools/browser/6b054ba2-4ef7-4a5a-9c9c-b5644b23482c
+1651131583460	Marionette	INFO	Listening on port 54125
+1651131583958	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.tradingview.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.tradingview.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://www.tradingview.com/static/bundles/5103.75816f70895ab424f963.js, line 19: unreachable code after return statement
+1651131651692	geckodriver	INFO	Listening on 127.0.0.1:54231
+1651131654764	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54232" "-no-remote" "-profile" "C:\\Users\\baris\\AppData\\Local\\Temp\\rust_mozprofilezxe1IA"
+1651131654970	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\baris\\AppData\\Local\\Temp\\rust_mozprofilezxe1IA\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54232/devtools/browser/174fac56-f20d-4fd9-b2a6-b4e7cb49e570
+1651131656488	Marionette	INFO	Listening on port 54237
+1651131656808	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.tradingview.com"
+1651131665251	Marionette	INFO	Stopped listening on port 54237
+Marionette threw an error: TypeError: browsingContext.currentWindowGlobal is null
+getMarionetteCommandsActorProxy/get/<@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:332:29
+
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1651131702143	geckodriver	INFO	Listening on 127.0.0.1:54331
+1651131705214	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54332" "-no-remote" "-profile" "C:\\Users\\baris\\AppData\\Local\\Temp\\rust_mozprofileZuF5r3"
+1651131705418	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\baris\\AppData\\Local\\Temp\\rust_mozprofileZuF5r3\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54332/devtools/browser/22ed82d7-8c4b-4012-81ff-a366aa9db959
+1651131706772	Marionette	INFO	Listening on port 54337
+1651131707269	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.tradingview.com"
+JavaScript warning: https://www.tradingview.com/static/bundles/5103.75816f70895ab424f963.js, line 19: unreachable code after return statement
+JavaScript warning: https://www.tradingview.com/static/bundles/5103.75816f70895ab424f963.js, line 19: unreachable code after return statement
+1651131771906	geckodriver	INFO	Listening on 127.0.0.1:54441
+1651131774986	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54442" "-no-remote" "-profile" "C:\\Users\\baris\\AppData\\Local\\Temp\\rust_mozprofileV6TvFh"
+1651131775195	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\baris\\AppData\\Local\\Temp\\rust_mozprofileV6TvFh\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54442/devtools/browser/d881a53f-6ed2-4260-925f-a68a55232595
+1651131776565	Marionette	INFO	Listening on port 54449
+1651131777030	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.tradingview.com"
+JavaScript warning: https://www.tradingview.com/static/bundles/5103.75816f70895ab424f963.js, line 19: unreachable code after return statement
+JavaScript warning: https://www.tradingview.com/static/bundles/5103.75816f70895ab424f963.js, line 19: unreachable code after return statement
+1651131829923	geckodriver	INFO	Listening on 127.0.0.1:54551
+1651131832984	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54552" "-no-remote" "-profile" "C:\\Users\\baris\\AppData\\Local\\Temp\\rust_mozprofilepUUbh2"
+1651131833194	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\baris\\AppData\\Local\\Temp\\rust_mozprofilepUUbh2\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54552/devtools/browser/d4a5e6ec-d7df-4db3-85d0-fb407f94438d
+1651131834558	Marionette	INFO	Listening on port 54557
+1651131835024	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.tradingview.com"
+JavaScript warning: https://www.tradingview.com/static/bundles/5103.75816f70895ab424f963.js, line 19: unreachable code after return statement
+JavaScript warning: https://www.tradingview.com/static/bundles/5103.75816f70895ab424f963.js, line 19: unreachable code after return statement
+1651131933988	geckodriver	INFO	Listening on 127.0.0.1:54668
+1651131937067	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54669" "-no-remote" "-profile" "C:\\Users\\baris\\AppData\\Local\\Temp\\rust_mozprofilehDXr45"
+1651131937282	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\baris\\AppData\\Local\\Temp\\rust_mozprofilehDXr45\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54669/devtools/browser/afdea074-ac8b-4092-ac9b-679f442904e1
+1651131938662	Marionette	INFO	Listening on port 54674
+1651131939130	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.tradingview.com"
+JavaScript warning: https://www.tradingview.com/static/bundles/5103.75816f70895ab424f963.js, line 19: unreachable code after return statement
+JavaScript warning: https://www.tradingview.com/static/bundles/5103.75816f70895ab424f963.js, line 19: unreachable code after return statement
+1651131971897	Marionette	INFO	Stopped listening on port 54674
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1651134515573	geckodriver	INFO	Listening on 127.0.0.1:55592
+1651134518653	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55593" "-no-remote" "-profile" "C:\\Users\\baris\\AppData\\Local\\Temp\\rust_mozprofileenEbBT"
+1651134518873	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\baris\\AppData\\Local\\Temp\\rust_mozprofileenEbBT\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55593/devtools/browser/318a1939-75de-49e0-8938-e6f9d54dfb6f
+1651134520260	Marionette	INFO	Listening on port 55599
+1651134520691	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.tradingview.com"
+JavaScript warning: https://www.tradingview.com/static/bundles/5103.75816f70895ab424f963.js, line 19: unreachable code after return statement
+1651134632245	geckodriver	INFO	Listening on 127.0.0.1:55777
+1651134635305	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55778" "-no-remote" "-profile" "C:\\Users\\baris\\AppData\\Local\\Temp\\rust_mozprofilevBvtGm"
+1651134635531	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\baris\\AppData\\Local\\Temp\\rust_mozprofilevBvtGm\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55778/devtools/browser/bd30fd9d-1195-4322-88a9-183b59e646a4
+1651134636906	Marionette	INFO	Listening on port 55784
+1651134637364	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.tradingview.com"
+[Child 2136, MediaDecoderStateMachine #1] WARNING: 238fd857200 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 2136, MediaDecoderStateMachine #1] WARNING: 23b0b0c14a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+1651134670533	geckodriver	INFO	Listening on 127.0.0.1:55897
+1651134673580	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55898" "-no-remote" "-profile" "C:\\Users\\baris\\AppData\\Local\\Temp\\rust_mozprofileJQQDaS"
+1651134673800	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\baris\\AppData\\Local\\Temp\\rust_mozprofileJQQDaS\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55898/devtools/browser/c6faab38-16b6-4073-b886-97b7e802dde7
+1651134675163	Marionette	INFO	Listening on port 55904
+1651134675635	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.tradingview.com"
+JavaScript warning: https://www.tradingview.com/static/bundles/5103.75816f70895ab424f963.js, line 19: unreachable code after return statement
+1651134759783	geckodriver	INFO	Listening on 127.0.0.1:56061
+1651134762853	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56062" "-no-remote" "-profile" "C:\\Users\\baris\\AppData\\Local\\Temp\\rust_mozprofileM1g5wq"
+1651134763072	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\baris\\AppData\\Local\\Temp\\rust_mozprofileM1g5wq\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56062/devtools/browser/337e0d66-f96b-4ac6-9c4d-9c4cd51dd012
+1651134764554	Marionette	INFO	Listening on port 56068
+1651134764884	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.tradingview.com"
+1651134830996	geckodriver	INFO	Listening on 127.0.0.1:56196
+1651134834065	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56197" "-no-remote" "-profile" "C:\\Users\\baris\\AppData\\Local\\Temp\\rust_mozprofileBNPXMZ"
+1651134834292	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\baris\\AppData\\Local\\Temp\\rust_mozprofileBNPXMZ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56197/devtools/browser/6ed6cd4c-0de9-4aaa-8224-f5406d210af1
+1651134835651	Marionette	INFO	Listening on port 56203
+1651134836130	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1651134838639	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1651134839357	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1651134840714	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.tradingview.com"
+1651134886084	geckodriver	INFO	Listening on 127.0.0.1:56324
+1651134889125	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56325" "-no-remote" "-profile" "C:\\Users\\baris\\AppData\\Local\\Temp\\rust_mozprofileP8LNA4"
+1651134889359	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\baris\\AppData\\Local\\Temp\\rust_mozprofileP8LNA4\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56325/devtools/browser/6a53bb83-5734-439f-bd96-7e22e2804567
+1651134890733	Marionette	INFO	Listening on port 56331
+1651134891169	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.tradingview.com"
+1651137119502	geckodriver	INFO	Listening on 127.0.0.1:57468
+1651137122540	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57469" "-no-remote" "-profile" "C:\\Users\\baris\\AppData\\Local\\Temp\\rust_mozprofilemNUtzq"
+1651137122765	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\baris\\AppData\\Local\\Temp\\rust_mozprofilemNUtzq\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57469/devtools/browser/288c243e-b8b3-4ab2-9597-12aa007bc776
+1651137124177	Marionette	INFO	Listening on port 57475
+1651137124586	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.tradingview.com"
+1651137213817	geckodriver	INFO	Listening on 127.0.0.1:57581
+1651137216872	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57582" "-no-remote" "-profile" "C:\\Users\\baris\\AppData\\Local\\Temp\\rust_mozprofile9R7C9T"
+1651137217101	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\baris\\AppData\\Local\\Temp\\rust_mozprofile9R7C9T\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57582/devtools/browser/3bb8097a-7305-45a7-bac7-2f2f741507d6
+1651137218427	Marionette	INFO	Listening on port 57589
+1651137218923	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1651137221040	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1651137221749	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1651137223187	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1651137224414	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.tradingview.com"
+1651137232524	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1651137311554	geckodriver	INFO	Listening on 127.0.0.1:57692
+1651137314598	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57693" "-no-remote" "-profile" "C:\\Users\\baris\\AppData\\Local\\Temp\\rust_mozprofilezeNebI"
+1651137314817	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\baris\\AppData\\Local\\Temp\\rust_mozprofilezeNebI\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57693/devtools/browser/92e6ec0f-58f9-4621-a7f3-f228719e9d03
+1651137316170	Marionette	INFO	Listening on port 57699
+1651137316651	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.tradingview.com"
+1651137368227	geckodriver	INFO	Listening on 127.0.0.1:57807
+1651137371294	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57808" "-no-remote" "-profile" "C:\\Users\\baris\\AppData\\Local\\Temp\\rust_mozprofileEl4TCH"
+1651137371506	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\baris\\AppData\\Local\\Temp\\rust_mozprofileEl4TCH\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57808/devtools/browser/a59331a9-b267-46c7-8f68-af4721a2feb7
+1651137372872	Marionette	INFO	Listening on port 57813
+1651137373337	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1651137375663	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1651137376372	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1651137377735	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1651137402857	geckodriver	INFO	Listening on 127.0.0.1:57893
+1651137405918	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57894" "-no-remote" "-profile" "C:\\Users\\baris\\AppData\\Local\\Temp\\rust_mozprofileBCczKR"
+1651137406124	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\baris\\AppData\\Local\\Temp\\rust_mozprofileBCczKR\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57894/devtools/browser/7c009285-2cdc-40a7-bb36-5cab69f42bc8
+1651137407519	Marionette	INFO	Listening on port 57900
+1651137407972	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.tradingview.com"
+1651137451576	geckodriver	INFO	Listening on 127.0.0.1:57996
+1651137454635	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57997" "-no-remote" "-profile" "C:\\Users\\baris\\AppData\\Local\\Temp\\rust_mozprofilePRBb8G"
+1651137454855	Marionette	INFO	Marionette enabled
+1651137460205	geckodriver	INFO	Listening on 127.0.0.1:58015
+1651137463284	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58016" "-no-remote" "-profile" "C:\\Users\\baris\\AppData\\Local\\Temp\\rust_mozprofilePLADfp"
+1651137463499	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\baris\\AppData\\Local\\Temp\\rust_mozprofilePLADfp\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58016/devtools/browser/d26ffa71-d78b-44d4-b2aa-8d1c80d6c04f
+1651137464882	Marionette	INFO	Listening on port 58021
+1651137465337	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1651137468509	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1651137469218	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1651137469936	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1651137471177	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.tradingview.com"
+1651137472184	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1651137478200	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1651137514554	geckodriver	INFO	Listening on 127.0.0.1:58116
+1651137517607	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58117" "-no-remote" "-profile" "C:\\Users\\baris\\AppData\\Local\\Temp\\rust_mozprofilen1O1Eg"
+1651137517819	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\baris\\AppData\\Local\\Temp\\rust_mozprofilen1O1Eg\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58117/devtools/browser/85bf222e-2d92-47f5-b49b-0c0cbf71cdd5
+1651137519173	Marionette	INFO	Listening on port 58122
+1651137519658	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.tradingview.com"
+JavaScript warning: https://www.tradingview.com/static/bundles/5103.75816f70895ab424f963.js, line 19: unreachable code after return statement
+1651137636725	geckodriver	INFO	Listening on 127.0.0.1:58242
+1651137639793	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58243" "-no-remote" "-profile" "C:\\Users\\baris\\AppData\\Local\\Temp\\rust_mozprofilehiAPIg"
+1651137640010	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\baris\\AppData\\Local\\Temp\\rust_mozprofilehiAPIg\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58243/devtools/browser/fc409c91-c82a-45a9-b30d-997b0a305de6
+1651137641379	Marionette	INFO	Listening on port 58252
+1651137641848	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1651137644280	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1651137645013	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1651137646476	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1651137647691	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.tradingview.com"
+1651137648698	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1651137666052	geckodriver	INFO	Listening on 127.0.0.1:58334
+1651137669106	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58335" "-no-remote" "-profile" "C:\\Users\\baris\\AppData\\Local\\Temp\\rust_mozprofileqb62iG"
+1651137669317	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\baris\\AppData\\Local\\Temp\\rust_mozprofileqb62iG\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58335/devtools/browser/dbc0f0ca-0b44-411f-bf4a-e63dafbb03e0
+1651137670678	Marionette	INFO	Listening on port 58341
+1651137671158	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.tradingview.com"
+1651137726128	geckodriver	INFO	Listening on 127.0.0.1:58447
+1651137729217	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58448" "-no-remote" "-profile" "C:\\Users\\baris\\AppData\\Local\\Temp\\rust_mozprofileHCAG5q"
+1651137729430	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\baris\\AppData\\Local\\Temp\\rust_mozprofileHCAG5q\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58448/devtools/browser/4710fd40-d6b9-43d3-8058-b3be35a55992
+1651137730775	Marionette	INFO	Listening on port 58455
+1651137731276	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1651137733516	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1651137734229	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1651137735580	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1651137736798	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.tradingview.com"
+1651137737796	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript warning: https://www.tradingview.com/static/bundles/5103.75816f70895ab424f963.js, line 19: unreachable code after return statement
+1651139406808	geckodriver	INFO	Listening on 127.0.0.1:58962
+1651139409872	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58963" "-no-remote" "-profile" "C:\\Users\\baris\\AppData\\Local\\Temp\\rust_mozprofilefjdhBe"
+1651139410094	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\baris\\AppData\\Local\\Temp\\rust_mozprofilefjdhBe\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58963/devtools/browser/8a142f26-b643-477f-af9d-90210fe46061
+1651139411538	Marionette	INFO	Listening on port 58968
+1651139411914	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.tradingview.com"
+1651139532306	geckodriver	INFO	Listening on 127.0.0.1:59070
+1651139537236	geckodriver	INFO	Listening on 127.0.0.1:59076
+1651139540267	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59077" "-no-remote" "-profile" "C:\\Users\\baris\\AppData\\Local\\Temp\\rust_mozprofileu5CxTL"
+1651139540483	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\baris\\AppData\\Local\\Temp\\rust_mozprofileu5CxTL\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59077/devtools/browser/847cfe9f-7806-4384-8f9e-bf5451dd41e6
+1651139541857	Marionette	INFO	Listening on port 59082
+1651139542302	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.tradingview.com"
+1651139560805	Marionette	INFO	Stopped listening on port 59082
+Marionette threw an error: TypeError: browsingContext.currentWindowGlobal is null
+getMarionetteCommandsActorProxy/get/<@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:332:29
+
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1651139595135	geckodriver	INFO	Listening on 127.0.0.1:59168
+1651139598217	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59169" "-no-remote" "-profile" "C:\\Users\\baris\\AppData\\Local\\Temp\\rust_mozprofile1umgP8"
+1651139598430	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\baris\\AppData\\Local\\Temp\\rust_mozprofile1umgP8\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59169/devtools/browser/9d8b7628-35e4-495d-ad30-8deca28aa3b7
+1651139599794	Marionette	INFO	Listening on port 59174
+1651139600260	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.tradingview.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.tradingview.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.tradingview.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.tradingview.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1651139647527	Marionette	INFO	Stopped listening on port 59174
+Marionette threw an error: TypeError: browsingContext.currentWindowGlobal is null
+getMarionetteCommandsActorProxy/get/<@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:332:29
+
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1651139673443	geckodriver	INFO	Listening on 127.0.0.1:59270
+1651139676515	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59271" "-no-remote" "-profile" "C:\\Users\\baris\\AppData\\Local\\Temp\\rust_mozprofileP1AHdn"
+1651139676733	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\baris\\AppData\\Local\\Temp\\rust_mozprofileP1AHdn\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59271/devtools/browser/e888cd09-af3d-4ec4-a4e5-1c0a9013f303
+1651139678114	Marionette	INFO	Listening on port 59276
+1651139678571	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.tradingview.com"
+1651139692223	Marionette	INFO	Stopped listening on port 59276
+Marionette threw an error: TypeError: browsingContext.currentWindowGlobal is null
+getMarionetteCommandsActorProxy/get/<@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:332:29
+
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1651139779405	geckodriver	INFO	Listening on 127.0.0.1:59375
+1651139782445	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59376" "-no-remote" "-profile" "C:\\Users\\baris\\AppData\\Local\\Temp\\rust_mozprofilePCUPTc"
+1651139782662	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\baris\\AppData\\Local\\Temp\\rust_mozprofilePCUPTc\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59376/devtools/browser/fe7b1291-9df7-45b5-a9d2-d018efde0879
+1651139784032	Marionette	INFO	Listening on port 59381
+1651139784504	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.tradingview.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.tradingview.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://www.tradingview.com/static/bundles/5103.75816f70895ab424f963.js, line 19: unreachable code after return statement
+1651140401262	geckodriver	INFO	Listening on 127.0.0.1:59544
+1651140404304	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59545" "-no-remote" "-profile" "C:\\Users\\baris\\AppData\\Local\\Temp\\rust_mozprofile3AsZO2"
+1651140404522	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\baris\\AppData\\Local\\Temp\\rust_mozprofile3AsZO2\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59545/devtools/browser/62611600-f1f6-484f-94c1-70b632a92dff
+1651140405936	Marionette	INFO	Listening on port 59550
+1651140406356	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1651140409162	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.tradingview.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.tradingview.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1651140468120	geckodriver	INFO	Listening on 127.0.0.1:59651
+1651140471144	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59652" "-no-remote" "-profile" "C:\\Users\\baris\\AppData\\Local\\Temp\\rust_mozprofileYvzN9h"
+1651140471357	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\baris\\AppData\\Local\\Temp\\rust_mozprofileYvzN9h\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59652/devtools/browser/58a1599f-026d-45b8-ae26-155d988157a7
+1651140472742	Marionette	INFO	Listening on port 59658
+1651140473199	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1651140499270	Marionette	INFO	Stopped listening on port 59658
+Marionette threw an error: TypeError: browsingContext.currentWindowGlobal is null
+getMarionetteCommandsActorProxy/get/<@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:332:29
+
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1651140521585	geckodriver	INFO	Listening on 127.0.0.1:59739
+1651140524629	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59740" "-no-remote" "-profile" "C:\\Users\\baris\\AppData\\Local\\Temp\\rust_mozprofile43URoY"
+1651140524842	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\baris\\AppData\\Local\\Temp\\rust_mozprofile43URoY\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59740/devtools/browser/8bc6bcc9-1ca6-49f9-b9e3-11de4b04246b
+1651140526297	Marionette	INFO	Listening on port 59745
+1651140526669	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.tradingview.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.tradingview.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1651140580679	geckodriver	INFO	Listening on 127.0.0.1:59843
+1651140583737	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59844" "-no-remote" "-profile" "C:\\Users\\baris\\AppData\\Local\\Temp\\rust_mozprofile4h2Wue"
+1651140583956	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\baris\\AppData\\Local\\Temp\\rust_mozprofile4h2Wue\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59844/devtools/browser/e0abb781-f5f8-4a6d-b1cd-c070cd5c20b8
+1651140585325	Marionette	INFO	Listening on port 59849
+1651140585784	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.tradingview.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.tradingview.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1651140953068	geckodriver	INFO	Listening on 127.0.0.1:59978
+1651140956131	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59979" "-no-remote" "-profile" "C:\\Users\\baris\\AppData\\Local\\Temp\\rust_mozprofilesZ7MR6"
+1651140956353	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\baris\\AppData\\Local\\Temp\\rust_mozprofilesZ7MR6\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59979/devtools/browser/7332e9a1-10dc-46c6-9c61-468a2d6f2514
+1651140957729	Marionette	INFO	Listening on port 59984
+1651140958175	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.tradingview.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.tradingview.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1651141016535	geckodriver	INFO	Listening on 127.0.0.1:60082
+1651141019608	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60083" "-no-remote" "-profile" "C:\\Users\\baris\\AppData\\Local\\Temp\\rust_mozprofileWishFg"
+1651141019825	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\baris\\AppData\\Local\\Temp\\rust_mozprofileWishFg\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60083/devtools/browser/1d50f0c5-84ba-42a7-9923-bbc3f483ad9e
+1651141021209	Marionette	INFO	Listening on port 60088
+1651141021675	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.tradingview.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.tradingview.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1651141140277	geckodriver	INFO	Listening on 127.0.0.1:60202
+1651141143312	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60203" "-no-remote" "-profile" "C:\\Users\\baris\\AppData\\Local\\Temp\\rust_mozprofileZU6oNK"
+1651141143529	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\baris\\AppData\\Local\\Temp\\rust_mozprofileZU6oNK\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60203/devtools/browser/a5b7f51c-ce55-4244-add7-ff851163f012
+1651141144938	Marionette	INFO	Listening on port 60208
+1651141145354	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.tradingview.com"
+1651141155731	Marionette	INFO	Stopped listening on port 60208
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1651141167606	geckodriver	INFO	Listening on 127.0.0.1:60282
+1651141170655	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60283" "-no-remote" "-profile" "C:\\Users\\baris\\AppData\\Local\\Temp\\rust_mozprofileYZeN4i"
+1651141170868	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\baris\\AppData\\Local\\Temp\\rust_mozprofileYZeN4i\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60283/devtools/browser/aeaba3c5-5465-4f83-ac8e-4d4209e26229
+1651141172243	Marionette	INFO	Listening on port 60288
+1651141172716	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.tradingview.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.tradingview.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1651141260336	geckodriver	INFO	Listening on 127.0.0.1:60394
+1651141263391	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60395" "-no-remote" "-profile" "C:\\Users\\baris\\AppData\\Local\\Temp\\rust_mozprofilefAbbf6"
+1651141263602	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\baris\\AppData\\Local\\Temp\\rust_mozprofilefAbbf6\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60395/devtools/browser/6a565d7a-3014-44f8-9108-af784a513225
+1651141264967	Marionette	INFO	Listening on port 60400
+1651141265434	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.tradingview.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.tradingview.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null

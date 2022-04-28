@@ -1,0 +1,9 @@
+flask
+gunicorn
+python-binance
+tradingview_ta
+datetime
+pandas
+numpy
+pandas_ta
+rq
